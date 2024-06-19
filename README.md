@@ -1,2 +1,2 @@
 # CountDown
-Count Down python module using  "time"  module.
+Count Down python program using  "time"  module.
